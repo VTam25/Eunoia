@@ -7,7 +7,29 @@
 
 <body>
 
+<button onclick="play_music()" type="button"> Play </button>
+<button onclick="pause_music()" type="button"> Pause </button>
+
+<audio id="music">
+	<source src="music.mp3" type="audio/mp3">
+	</audio>
+
+<script>
+
+var music = document.getElementById("music");
+function play_music(){
+	audio.play();
+}
+
+function pause_music(){
+	audio.pause();
+}
+
+
+</script>
+
 <a href="settings.html"> <img src="settings.png" align = "right" width="30" height="30"> </a>
+
 
 <h1> <i>Eunoia</i> </h1>
 
