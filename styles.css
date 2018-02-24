@@ -4,7 +4,7 @@
 
 body {
     background-color: rgb(255, 211, 148);
-    min-width: 450px;
+    min-width: 400px;
 	min-height: 280px;
 }
 
@@ -30,7 +30,7 @@ p{
 	display: inline-block;
 	padding: 2px;
 	margin: 0 auto;
-	position: center;
+	position: relative;
     left: 24px;
 }
 
