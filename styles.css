@@ -4,15 +4,8 @@
 
 body {
     background-color: rgb(255, 211, 148);
-    min-width: 400px;
+    min-width: 350px;
 	min-height: 280px;
-}
-
-
-img {
-	display: block;
-    margin: auto;
-    padding: 5px;
 }
 
 
@@ -32,17 +25,13 @@ p{
 .social {
 	display: block;
 	display: inline-block;
-	padding: 2px;
-	margin: 0 auto;
+	padding: 5px;
+	margin: 20 auto;
 	position: relative;
-    left: 24px;
 }
 
-.homebuttons {
+.home {
 	display: block;
 	display: inline-block;
-	padding: 2px;
 	margin: auto;
-	position: relative;
-    left: 24px;
 }
