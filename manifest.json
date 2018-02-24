@@ -1,18 +1,15 @@
 {
-	"name": "Vitality",
+	"name": "Eunoia",
 	"version": "0.01",
 	"manifest_version": 2,
-	"description": "Your Personal Health Manager",
+	"description": "Treat Yo'Self",
 	"icons": {"128": "logo.png"},
     "browser_action": {
       "default_icon": "logo.png",
-      "default_title": "Vitality",
+      "default_title": "Eunoia",
       "default_popup": "index.html"
   	},
   "permissions": [
     "notifications"
-  ],
-  "background": {
-    "scripts": ["background.js"]
-  }
+  ]
 }
