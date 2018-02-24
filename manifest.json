@@ -10,7 +10,7 @@
       "default_popup": "index.html"
   	},
   "permissions": [
-    "notifications", "alarms"
+    "notifications"
   ],
   "background": {
     "scripts": ["background.js"]
