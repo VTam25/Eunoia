@@ -29,3 +29,12 @@ p{
 	position: relative;
     left: 24px;
 }
+
+.homebuttons {
+	display: block;
+	display: inline-block;
+	padding: 2px;
+	margin: auto;
+	position: relative;
+    left: 24px;
+}
