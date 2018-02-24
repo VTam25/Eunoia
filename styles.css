@@ -4,7 +4,7 @@
 
 body {
     background-color: rgb(255, 211, 148);
-    min-width: 280px;
+    min-width: 450px;
 	min-height: 280px;
 }
 
@@ -17,6 +17,10 @@ h1{
 	text-align: center;
 }
 
+h2{
+	text-align: center;
+}
+
 p{
 	text-align: center;
 }
@@ -25,8 +29,8 @@ p{
 	display: block;
 	display: inline-block;
 	padding: 2px;
-	margin: auto;
-	position: relative;
+	margin: 0 auto;
+	position: center;
     left: 24px;
 }
 
