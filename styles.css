@@ -25,10 +25,9 @@ p{
 .social {
 	display: block;
 	display: inline-block;
-	padding: 2px;
-	margin: auto;
+	padding: 5px;
+	margin: 20 auto;
 	position: relative;
-    left: 24px;
 }
 
 .home {
