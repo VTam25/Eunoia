@@ -4,12 +4,16 @@
 
 body {
     background-color: rgb(255, 211, 148);
-    min-width: 450px;
+    min-width: 430px;
 	min-height: 280px;
 }
 
 
-
+img {
+	display: block;
+    margin: 0 auto;
+    padding: 5px;
+}
 
 
 
@@ -17,24 +21,10 @@ h1{
 	text-align: center;
 }
 
-p{
+h2{
 	text-align: center;
 }
 
-.social {
-	display: block;
-	display: inline-block;
-	padding: 2px;
-	margin: 0 auto;
-	position: center;
-    left: 24px;
-}
-
-.homebuttons {
-	display: block;
-	display: inline-block;
-	padding: 2px;
-	margin: auto;
-	position: relative;
-    left: 24px;
+p{
+	text-align: center;
 }
