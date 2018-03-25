@@ -18,6 +18,6 @@ chrome.notifications.create(options, callback);
 
 
 
-function callback(){
-
+function callback() {
+    alert("hello");
 }
